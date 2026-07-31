@@ -1,0 +1,41 @@
+div{
+    color: beige;
+}
+body{
+    background-color: grey;
+}
+
+#second{
+    text-align: center;
+    text-decoration: dotted;
+    color: blueviolet;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+    border-width: 1px 2px 3px 4px;
+    border-style: solid;
+    border-color: black;
+    padding-bottom: 5px;
+}
+#third{
+    text-align: center;
+    text-decoration: underline;
+    color: lightcyan;
+    font: 200;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border-width: 1px 2px 3px 4px;
+    border-style: solid;
+    border-color: black;
+    padding-top: 10px;
+}
+#first{
+    text-align: center;
+    text-decoration: overline;
+    color: cyan;
+    font-weight: 200;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-width: 1px 2px 3px 4px;
+    border-style: solid;
+    border-color: black;
+    padding-bottom: 10px;
+    padding-top: 10px ;
+}
